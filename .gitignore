@@ -1,0 +1,10 @@
+.env
+mm-poc/
+.venv/
+images_output/
+__pycache__/
+src/backend/static/
+src/backend/data.json
+data.json
+.azure
+index_payload.json
